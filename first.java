@@ -4,5 +4,5 @@ class first{
 		System.out.println(Math.round(-9.5));
 		String string=new String("xyz");
 		System.out.println(string);
-	}1
+	}
 }
